@@ -26,16 +26,16 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8563](https://github.com/makeplane/plane/pull/8563) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 🎉 Merged PR [#8614](https://github.com/makeplane/plane/pull/8614) in [makeplane/plane](https://github.com/makeplane/plane)
-3. ℹ️ Assigned PR [#8614](https://github.com/makeplane/plane/pull/8614) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#8614](https://github.com/makeplane/plane/pull/8614) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 🎉 Merged PR [#1](https://github.com/Developer-Vipin-Chaudhary/github_app_test/pull/1) in [Developer-Vipin-Chaudhary/github_app_test](https://github.com/Developer-Vipin-Chaudhary/github_app_test)
-6. 💪 Opened PR [#1](https://github.com/Developer-Vipin-Chaudhary/github_app_test/pull/1) in [Developer-Vipin-Chaudhary/github_app_test](https://github.com/Developer-Vipin-Chaudhary/github_app_test)
-7. ℹ️ Labeled PR [#8596](https://github.com/makeplane/plane/pull/8596) in [makeplane/plane](https://github.com/makeplane/plane)
-8. 💪 Opened PR [#8596](https://github.com/makeplane/plane/pull/8596) in [makeplane/plane](https://github.com/makeplane/plane)
-9. 🔒 Closed issue [#23](https://github.com/RocketChat/Apps.EmailBridgeNLP/issues/23) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
-10. ℹ️ Labeled PR [#8563](https://github.com/makeplane/plane/pull/8563) in [makeplane/plane](https://github.com/makeplane/plane)
+1. ❌ Closed PR [#8108](https://github.com/makeplane/plane/pull/8108) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 🎉 Merged PR [#8563](https://github.com/makeplane/plane/pull/8563) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 🎉 Merged PR [#8614](https://github.com/makeplane/plane/pull/8614) in [makeplane/plane](https://github.com/makeplane/plane)
+4. ℹ️ Assigned PR [#8614](https://github.com/makeplane/plane/pull/8614) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#8614](https://github.com/makeplane/plane/pull/8614) in [makeplane/plane](https://github.com/makeplane/plane)
+6. 🎉 Merged PR [#1](https://github.com/Developer-Vipin-Chaudhary/github_app_test/pull/1) in [Developer-Vipin-Chaudhary/github_app_test](https://github.com/Developer-Vipin-Chaudhary/github_app_test)
+7. 💪 Opened PR [#1](https://github.com/Developer-Vipin-Chaudhary/github_app_test/pull/1) in [Developer-Vipin-Chaudhary/github_app_test](https://github.com/Developer-Vipin-Chaudhary/github_app_test)
+8. ℹ️ Labeled PR [#8596](https://github.com/makeplane/plane/pull/8596) in [makeplane/plane](https://github.com/makeplane/plane)
+9. 💪 Opened PR [#8596](https://github.com/makeplane/plane/pull/8596) in [makeplane/plane](https://github.com/makeplane/plane)
+10. 🔒 Closed issue [#23](https://github.com/RocketChat/Apps.EmailBridgeNLP/issues/23) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
 <!--END_SECTION:activity-->
 
   
