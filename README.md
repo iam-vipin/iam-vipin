@@ -9,7 +9,7 @@
 
 <br />
 
-Hey there, **I'm Vipin Chaudhary** - a  developer who's always open to learn and grow. 
+Hey there, **I'm Vipin Chaudhary** - a  developer who's always open to learn and grow and ai. 
 
 
 I ❤️ working on **open source** projects, because I believe that sharing knowledge and collaborating with others is the 🔑 to success.
