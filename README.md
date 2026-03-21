@@ -24,14 +24,14 @@ Let's create something **amazing together** !
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8759](https://github.com/makeplane/plane/pull/8759) in [makeplane/plane](https://github.com/makeplane/plane)
-2. ℹ️ Labeled PR [#245](https://github.com/makeplane/developer-docs/pull/245) in [makeplane/developer-docs](https://github.com/makeplane/developer-docs)
-3. ℹ️ Assigned PR [#245](https://github.com/makeplane/developer-docs/pull/245) in [makeplane/developer-docs](https://github.com/makeplane/developer-docs)
-4. 💪 Opened PR [#245](https://github.com/makeplane/developer-docs/pull/245) in [makeplane/developer-docs](https://github.com/makeplane/developer-docs)
-5. ℹ️ Labeled PR [#8759](https://github.com/makeplane/plane/pull/8759) in [makeplane/plane](https://github.com/makeplane/plane)
-6. ℹ️ Assigned PR [#8759](https://github.com/makeplane/plane/pull/8759) in [makeplane/plane](https://github.com/makeplane/plane)
-7. 💪 Opened PR [#8759](https://github.com/makeplane/plane/pull/8759) in [makeplane/plane](https://github.com/makeplane/plane)
-8. 🎉 Merged PR [#8639](https://github.com/makeplane/plane/pull/8639) in [makeplane/plane](https://github.com/makeplane/plane)
-9. 🎉 Merged PR [#8596](https://github.com/makeplane/plane/pull/8596) in [makeplane/plane](https://github.com/makeplane/plane)
-10. ℹ️ Labeled PR [#8639](https://github.com/makeplane/plane/pull/8639) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🗣 Commented on [#69](https://github.com/RocketChat/Apps.QuickReplies/pull/69#issuecomment-4102852341) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+2. 🔒 Closed issue [#72](https://github.com/RocketChat/Apps.QuickReplies/issues/72) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+3. 🗣 Commented on [#71](https://github.com/RocketChat/Apps.QuickReplies/pull/71#issuecomment-4102850939) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+4. ❌ Closed PR [#71](https://github.com/RocketChat/Apps.QuickReplies/pull/71) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+5. 🔒 Closed issue [#45](https://github.com/RocketChat/Apps.QuickReplies/issues/45) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+6. 🎉 Merged PR [#8759](https://github.com/makeplane/plane/pull/8759) in [makeplane/plane](https://github.com/makeplane/plane)
+7. ℹ️ Labeled PR [#245](https://github.com/makeplane/developer-docs/pull/245) in [makeplane/developer-docs](https://github.com/makeplane/developer-docs)
+8. ℹ️ Assigned PR [#245](https://github.com/makeplane/developer-docs/pull/245) in [makeplane/developer-docs](https://github.com/makeplane/developer-docs)
+9. 💪 Opened PR [#245](https://github.com/makeplane/developer-docs/pull/245) in [makeplane/developer-docs](https://github.com/makeplane/developer-docs)
+10. ℹ️ Labeled PR [#8759](https://github.com/makeplane/plane/pull/8759) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
