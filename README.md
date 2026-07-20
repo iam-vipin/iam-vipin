@@ -3,7 +3,7 @@
 	
 <br />
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=VipinDevelops&show_icons=true&title_color=C9D1D9&icon_color=58A6FF&border_color=30363D&text_color=C9D1D9&bg_color=0d1117" alt="VipinDevelops" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=iam-vipins&show_icons=true&title_color=C9D1D9&icon_color=58A6FF&border_color=30363D&text_color=C9D1D9&bg_color=0d1117" alt="iam-vipins" /></p>
 </div>
 
 <br />
@@ -17,7 +17,7 @@ My mission 🚀 is to write clean and elegant code that **solves real-world prob
 Let's create something **amazing together** !
 
 - Reach me: **vipinchaudhary1809@gmail.com**
-- Twitter : [VipinDevelops](https://twitter.com/VipinDevelops)
+- Twitter : [vipin_txt](https://x.com/vipin_twt)
   <br />
 
 ### :zap: Recent Activity
