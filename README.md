@@ -1,24 +1,28 @@
-<!--### Hi 👋 Vipin Chaudhary here!-->
-<h1 align="center">Hello there, I'm Vipin Chaudhary 😊</h1>
-	
-<br />
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=iam-vipin&show_icons=true&title_color=C9D1D9&icon_color=58A6FF&border_color=30363D&text_color=C9D1D9&bg_color=0d1117" alt="iam-vipin" /></p>
-</div>
+<h1 align="center">Hi, I’m Vipin Chaudhary 👋</h1>
 
-<br />
+<p align="center">
+  Software Engineer • Product Engineering • Distributed Systems • Open Source
+</p>
 
-Hey there, **I'm Vipin Chaudhary** - a developer who's always open to learn and grow.
+<p align="center">
+  <a href="https://github.com/iam-vipin">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=iam-vipin&theme=github-dark&hide_border=true"
+      alt="Vipin Chaudhary's GitHub activity graph"
+    />
+  </a>
+</p>
 
-I ❤️ working on **open source** projects, because I believe that sharing knowledge and collaborating with others is the 🔑 to success.
+I’m a curious software engineer who enjoys understanding how complex systems work and turning difficult problems into reliable, useful products.
 
-My mission 🚀 is to write clean and elegant code that **solves real-world problems**. And if I can do it with a 😊 on my face, even better!
+Currently, I’m a Software Engineer at **[Plane](https://plane.so/)**, where I take ownership of features from system design to production. My work spans product engineering, distributed systems, AI-assisted workflows, integrations, permissions, and collaborative applications.
 
-Let's create something **amazing together** !
+I enjoy learning new technologies, working across the stack, contributing to open source, and building software that solves real problems.
 
-- Reach me: **vipinchaudhary1809@gmail.com**
-- Twitter : [vipin_txt](https://x.com/vipin_twt)
-  <br />
+- 🌐 [Portfolio](https://iam-vipin-portfolio.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/v1pinchaudhary/)
+- 𝕏 [@vipin_twt](https://x.com/vipin_twt)
+- ✉️ [vipinchaudhary1809@gmail.com](mailto:vipinchaudhary1809@gmail.com)
 
 ### :zap: Recent Activity
 
